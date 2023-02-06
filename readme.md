@@ -1,5 +1,4 @@
-Week 3 - Challenge WeekEnd
-Logo Pokémon
+# Week 3 - Challenge WeekEnd
 
 Pokémon
 Esta aplicación tendrá tres páginas:
@@ -16,7 +15,6 @@ En cualquiera de los listados, el usuario debería poder ir al detalle de un pok
 BEM HTML semántico Testing
 
 Week 3 - Challenge WeekEnd
-pokemon logo
 
 Pokemon
 This application will have three pages:
